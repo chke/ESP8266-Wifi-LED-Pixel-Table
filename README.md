@@ -1,10 +1,11 @@
 ESP8266 Wifi LED Pixel Table
+=========
 
 This is the sourcecode of my project creating a Wifi LED Pixel Table with the ESP8266.
 
 With this software it is possible to control a 7x7 LED Pixel Table with any webbrowser in the same wifi.
-It is possible to set solid color or even set the color of single LEDs.
-You can set diffenent color fades as well.
+It is possible to set a solid color or even set the color of single LEDs. 
+You can set different color fades as well.
 
 This project is based on and extends another github project:
 
